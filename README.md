@@ -2,10 +2,8 @@
 This repository contains my personal notes in the field of Anomaly Detection, especially in Transportation. Individuals who are interested in it are welcome to discuss and study together. PS: Only used for personal study!
 
 
-**Anomaly Detection: A Survey** [^1]; **Deep Learning for Anomaly Detection: A Survey** [^16]
-
 ## 1. **Introduction**
-- **Background**: Anomaly detection plays a crucial role across numerous domains, including intrusion detection, fraud detection, fault detection, monitoring systems, and healthcare diagnostics. Anomalies represent rare but significant events that may indicate critical issues.
+- **Background**: Anomaly detection plays a crucial role across numerous domains, including intrusion detection, fraud detection, fault detection, monitoring systems, and healthcare diagnostics. Anomalies represent rare but significant events that may indicate critical issues[^1].
 - **Importance**: Early anomaly detection helps prevent damage, improve system reliability, and safeguard sensitive data. With the advent of big data, the challenge of detecting anomalies has grown, making this area vital in machine learning and data mining.
 
 ## 2. **Definition and Types of Anomalies**
