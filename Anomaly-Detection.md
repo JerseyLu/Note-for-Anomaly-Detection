@@ -1,6 +1,4 @@
 # Note-for-Anomaly-Detection
-This repository contains my personal notes in the field of Anomaly Detection, especially in Transportation. Individuals who are interested in it are welcome to discuss and study together. PS: Only used for personal study!
-
 
 ## 1. **Introduction**
 - **Background**: Anomaly detection plays a crucial role across numerous domains, including intrusion detection, fraud detection, fault detection, monitoring systems, and healthcare diagnostics. Anomalies represent rare but significant events that may indicate critical issues[^1].
