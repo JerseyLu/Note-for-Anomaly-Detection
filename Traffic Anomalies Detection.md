@@ -1,9 +1,5 @@
 # **Learning Notes: Urban Traffic Anomaly Detection**
 
-This learning note focuses on the key methodologies, applications, and challenges in urban traffic anomaly detection, as surveyed in recent literature. The main objective is to understand the diverse approaches used for detecting anomalies in traffic flow and trajectory data in urban environments. Individuals who are interested in it are welcome to discuss and study together. PS: Only used for personal study!
-
----
-
 ## **1. Overview**
 Urban traffic anomaly detection plays a crucial role in intelligent transportation systems (ITS), aiming to identify unusual patterns or events that deviate from normal traffic conditions[^1]. These anomalies can represent traffic congestion, accidents, unusual vehicle behavior, or special events.
 
